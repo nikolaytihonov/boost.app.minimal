@@ -1,0 +1,8 @@
+.vs/
+*.suo
+*.sdf
+*.opensdf
+*.obj
+*.log
+*.tlog
+*.txt

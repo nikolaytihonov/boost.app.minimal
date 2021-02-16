@@ -1,0 +1,12 @@
+build*
+cmake-build*
+.idea
+*.suo
+*.sdf
+*.opensdf
+*.obj
+*.log
+*.tlog
+*.txt
+*.db
+.vs
